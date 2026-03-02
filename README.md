@@ -5,7 +5,7 @@ Ein kleines FiveM Routen / Geldwäsche Script für ESX.
 ## Features
 - Konfigurierbare Routen mit Sammelpunkt, Verarbeitungspunkt und Verkaufspunkten (zeitbasiert anpassbar)
 - Geldwäsche System
-- NPC Spawning mit eigenen Models und Animationen
+- NPC Spawning mit Models und Animationen
 - Blips für alle Standorte
 - Discord Webhooks für alle Spieleraktionen
 - Animations und Prop Unterstützung
